@@ -9,4 +9,4 @@ Práce s následujícími technologiemi - WSL, Python (Pygame, Gymnasium), SB3, 
 
 Podrobnější informace a samotný text práce na https://theses.cz/id/dfxn9f/?zpet=%2Fvyhledavani%2F%3Fsearch%3Dfranti%C5%A1ek%20macho%C5%88%26start%3D1;isshlret=Franti%C5%A1ek%3BMacho%C5%88%3B
 
-Složky ke hře a machine learning projektu na https://drive.google.com/drive/folders/1Fjq0vu3WXMbzL-3Dl0ELUWi0VG8XaHpz
+Alternativní uložiště https://drive.google.com/drive/folders/1Fjq0vu3WXMbzL-3Dl0ELUWi0VG8XaHpz

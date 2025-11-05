@@ -1,0 +1,12 @@
+instalace se může vcelku drasticky lišit na hardware pc (například grafická karta amd x nvidia, MacBook,...)
+tedy ji nelze jednoduše shrnout a ve finále je potřeba sledovat požadavky jednotlivých knihoven dle oficiánlí dokumentace
+testováno na Windows pc s využitím WSL - tedy vše běželo v prostředí operačního systému Linux
+hw - grafická karta Nvidia RTX 4070, procesor AMD Ryzen 5 7600
+
+používaná verze - Python 3.11.6
+
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126 
+pip install stable-baselines3[extra] gymnasium
+pip install pygame
+pip install numpy
+pip install matplotlib
